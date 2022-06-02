@@ -25,7 +25,6 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Samiullah Bahadur**
 
-- GitHub: [@Bahadur](https://github.com/samiullahbahadur)
 - Twitter: [@Bahadur](https://twitter.com/Samiull88496331)
 - LinkedIn: [@Bahadur](https://www.linkedin.com/in/samiullah-bahadur/)
 
