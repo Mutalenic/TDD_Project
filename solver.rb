@@ -2,7 +2,8 @@ class Solver
   def factorial(num)
     i = 1
     result = 1
-    raise RuntimeError if num < 0
+    raise RuntimeError if num.negative?
+
     while i <= num
       result *= i
       i += 1

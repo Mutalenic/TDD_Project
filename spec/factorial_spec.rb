@@ -5,7 +5,7 @@ describe Solver do
   end
   it 'test when N is negative' do
     expect { @solver.factorial(-5) }.to raise_error(RuntimeError)
-    end
+  end
 
   it 'test when N is zero' do
     expect(@solver.factorial(0)).to eq(1)
@@ -15,6 +15,3 @@ describe Solver do
     expect(@solver.factorial(5)).to eq(120)
   end
 end
-
-
-
